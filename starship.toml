@@ -149,7 +149,7 @@ ignore_base = false
 [env_var.yazi]
 disabled = false
 variable = "YAZI_LEVEL"
-symbol = "󰇥"
+symbol = " 󰇥"
 style = "fg:yellow bold"
 format = '[$symbol $env_value]($style)'
 [env_var.clash]
